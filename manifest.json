@@ -1,0 +1,51 @@
+{
+  "background_color": "#302c2e",
+  "description": "INTEL app for Star Citizen",
+  "dir": null,
+  "display": "minimal-ui",
+  "lang": "English",
+  "name": "Star Citizen INTEL",
+  "prefer_related_applications": null,
+  "related_applications": null,
+  "scope": "https://pweb.solutions/starcitizen/intel/",
+  "short_name": "SC INTEL",
+  "start_url": "https://pweb.solutions/starcitizen/intel/",
+  "theme_color": "#302c2e",
+  "categories": null,
+  "screenshots": [],
+  "iarc_rating_id": null,
+  "icons": [
+    {
+      "src": "https://pweb.solutions/starcitizen/intel/resources/img/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": null,
+      "platform": null
+    },
+    {
+      "src": "https://pweb.solutions/starcitizen/intel/resources/img/icon-256x256.png",
+      "type": "image/png",
+      "sizes": "256x256",
+      "purpose": null,
+      "platform": null
+    },
+    {
+      "src": "https://pweb.solutions/starcitizen/intel/resources/img/icon-384x384.png",
+      "type": "image/png",
+      "sizes": "384x384",
+      "purpose": null,
+      "platform": null
+    },
+    {
+      "src": "https://pweb.solutions/starcitizen/intel/resources/img/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": null,
+      "platform": null
+    }
+  ],
+  "shortcuts": null,
+  "url": "https://pweb.solutions/starcitizen/intel/",
+  "manifestUrl": "https://pweb.solutions/starcitizen/intel/manifest.json",
+  "orientation": "any"
+}

@@ -1,0 +1,52 @@
+/*
+a:link {
+  color:white;
+  text-decoration: none;
+}
+a:visited {
+  color: #8a8e91;
+}
+a:hover {
+  color: #8a8e91;
+}
+a:active {
+  color: #8a8e91;
+}
+*/
+
+body {
+  background-image: url(https://robertsspaceindustries.com/rsi/static/wsc/images/Logo_Pattern_Right.svg);
+  background-color: #302c2e;
+  color: #8a8e91;
+  font-family: "Agency Gothic CT";
+  font-size: 150%;
+}
+
+.navbar-custom {
+  background-color: #302c2e;
+}
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text {
+  color: #8a8e91;
+}
+
+@font-face {
+  font-family: "Agency Gothic CT";
+  src: url("./AgencyGothicCT-Medium.ttf");
+}
+
+.card {
+  display: flex;
+  justify-content: space-between;
+}
+
+.card-body,
+.card {
+  background-color: #8a8e91;
+  color: #302c2e;
+}
+
+.btn, btn-primary{
+  color: white;
+  background-color:blue;
+}
